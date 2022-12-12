@@ -1,0 +1,88 @@
+#company{
+    color: greenyellow;
+    margin-top: 60px;
+    margin-right: 450px;
+}
+#firstrow{
+    margin: 20px;
+    padding-top: 30px;
+}
+#secondrow{
+     margin: 20px;
+  width: 500px;
+}
+#thirdrow{
+    margin: 20px;
+ width: 500px;
+}
+#container{ 
+    background-color: lightsteelblue;
+    margin-top: 30px;
+    border:1px solid black;
+   
+}
+#fourthrow{
+    margin: 20px;
+}
+#fivthrow{
+    margin: 20px;
+    width: 200px;
+}
+#sixthrow{
+    margin: 20px;
+}
+#seventhrow{
+    margin: 20px;
+}
+#eigthrow{
+    margin: 20px;
+    width: 500px;
+}
+#com{
+    margin-left: 500px;
+}
+#secondcontainer{ 
+    width: 1150px;
+    background-color: lightsteelblue;
+    border:1px solid black;
+    margin-top: 50px;
+    margin-left: 100px;
+}
+#ninthrow{
+    padding-left: 10px;
+    padding: 10px;
+}
+#conaa {
+    width: 1150px;
+    background-color: lightsteelblue;
+    border:1px solid black;
+    margin-top: 50px;
+    margin-left: 100px;
+    margin-bottom: 20px;
+}
+#id{
+ margin-top: 20px;
+
+}
+#colip{
+    margin-bottom: 20px;
+}
+#thirteenrow{
+ margin-top: 20px;
+}
+#fourteenrow{
+    margin-top: 20px;
+ 
+}
+#email{
+    width: 100px;
+    padding-bottom: 20px;
+}
+#conres{
+    background-color: lightsteelblue;
+    border: 1px solid;
+}
+#fivteenrow{
+    margin-top: 20px;
+   
+}
